@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/masterUNG/MyWorkspace/Studio_Learning/SearchView/app/build/intermediates/incremental-classes/debug/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="502a4e0b270b45497a9a267f1709ea523ce43305">
+        <dex dex="/Users/masterUNG/MyWorkspace/Studio_Learning/SearchView/app/build/intermediates/pre-dexed/debug/classes_2b307dbfc7bf104ebc7b16f4b05c67f13a1f5c0c.jar" />
+    </item>
+    <item
+        jar="/Users/masterUNG/MyWorkspace/Studio_Learning/SearchView/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="b4184e7a807567034b24b505c9e09df925c8d86e">
+        <dex dex="/Users/masterUNG/MyWorkspace/Studio_Learning/SearchView/app/build/intermediates/pre-dexed/debug/instant-run_f4d56fcd29530e3f31642111ce7e303d9fd2b75b.jar" />
+    </item>
+    <item
+        jar="/Users/masterUNG/android-sdk-macosx/extras/android/m2repository/com/android/support/support-v4/18.0.0/support-v4-18.0.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="/Users/masterUNG/MyWorkspace/Studio_Learning/SearchView/app/build/intermediates/pre-dexed/debug/support-v4-18.0.0_c6c5387b6413c21c5d57b72eca33a073b7380282.jar" />
+    </item>
+
+</items>
